@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\BankConsoleApp\BankConsoleApp\bin\Debug\BankConsoleApp.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\BankConsoleApp\BankConsoleApp\bin\Debug\BankConsoleApp.exe
+c:\users\acer\documents\visual studio 2015\Projects\BankConsoleApp\BankConsoleApp\bin\Debug\BankConsoleApp.pdb
+c:\users\acer\documents\visual studio 2015\Projects\BankConsoleApp\BankConsoleApp\obj\Debug\BankConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\BankConsoleApp\BankConsoleApp\obj\Debug\BankConsoleApp.exe
+c:\users\acer\documents\visual studio 2015\Projects\BankConsoleApp\BankConsoleApp\obj\Debug\BankConsoleApp.pdb
